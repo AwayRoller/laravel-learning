@@ -5,3 +5,5 @@
 3. Database setup
 4. Pass Data to Views
 5. Query builder
+6. Eloquent
+7. Controllers
