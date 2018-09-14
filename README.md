@@ -7,3 +7,4 @@
 5. Query builder
 6. Eloquent
 7. Controllers
+8. Route model binding
