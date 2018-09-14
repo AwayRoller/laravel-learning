@@ -8,3 +8,4 @@
 6. Eloquent
 7. Controllers
 8. Route model binding
+9. Layouts and Structure
